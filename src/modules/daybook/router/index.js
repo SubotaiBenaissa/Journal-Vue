@@ -1,5 +1,5 @@
 export default {
-  name: "daybook",
+  name: 'daybook',
   component: () => import("../layouts/DaybookLayout.vue"),
   children: [
     {
